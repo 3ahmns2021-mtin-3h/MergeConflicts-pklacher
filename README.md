@@ -23,10 +23,9 @@ just started
 ### Limitations: 
 
 ### Lessons Learned: 
-
-<li>
-  <ul>repeat merging online& offline</ul>
-  <ul>solving merging conflicts</ul>
-</li>  
+<ul>
+  <li>repeat merging online& offline</li>
+  <li>solving merging conflicts</li>
+</ul>  
 
 Copyright by Pia Lacher
