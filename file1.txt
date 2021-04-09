@@ -1,1 +1,1 @@
-This is the text in the 2nd cloned repo of the file.
+Changes I made on Master Branch. Here is a second sentence.
