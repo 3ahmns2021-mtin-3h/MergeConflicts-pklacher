@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 These are the changes I made on Main Branch.
 
 These are the changes made on Feature-a branch.
+=======
+Changes I made on Master Branch. Here is a second sentence.
+
+This is file 1 in this repo.
+
+>>>>>>> 1fac9d467dd6f2a4653029742da041bdb71bfecb
