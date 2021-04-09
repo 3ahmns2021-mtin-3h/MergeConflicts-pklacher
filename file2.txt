@@ -1,1 +1,1 @@
-ECHO ist eingeschaltet (ON).
+This is the online version of this document.
